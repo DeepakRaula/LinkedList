@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thete
+ *
+ */
+module LinkedList {
+}
